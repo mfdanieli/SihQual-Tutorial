@@ -18,20 +18,23 @@ Mais informações sobre o modelo:
   FERREIRA, D. M.; FERNANDES, C. V.; KAVISKI, E. Curvas de permanência de qualidade da água como subsídio para o enquadramento de corpos d'água a partir de modelagem matemática em regime não permanente. RBRH, v. 21, p. 479-492, 2016.
 </a>
 
+<br />
 
 <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0301479719303500%3Fvia%253Dihub&sa=D&sntz=1&usg=AFQjCNGM6sRCMV9IQjocyveUvpp4j1HiEw" target="_blank">
   FERREIRA, D. M.; FERNANDES, C. V.; KAVISKI, E.; FONTANE, D. Water quality modelling under unsteady state analysis: Strategies for planning and management. Journal of Environmental Management, v. 239, p. 150-158, 2019.
 </a>
 
+<br />
 
 <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0022169420302298%3Fvia%253Dihub&sa=D&sntz=1&usg=AFQjCNHs0UbCovvvyqU8_ZOYxOBKeC68HA" target="_blank">
   FERREIRA, D. M.; FERNANDES, C. V.; KAVISKI, E.; FONTANE, D. Transformation rates of pollutants in rivers for water quality modelling under unsteady state: a calibration method. Journal of Hydrology, p. 124769, 2020.
 </a>
 
+<br />
+
 <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0022169421001839%3Fvia%253Dihub&sa=D&sntz=1&usg=AFQjCNGecftxGNPs4X09sxzujFpL-hBcCw" target="_blank">
   FERREIRA, D. M.; FERNANDES, C. V. S.; KAVISKI, E.; BLENINGER, T. B. Calibration of river hydrodynamic models: analysis from the dynamic component in roughness coefficients. Journal of Hydrology, p. 126136, 2021.
 </a>
-
 
 <br />
 
