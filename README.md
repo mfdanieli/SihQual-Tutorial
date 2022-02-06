@@ -12,6 +12,10 @@
 
 Fontes dos dados:
 
+https://www.snirh.gov.br/hidroweb/
+https://cetesb.sp.gov.br/ 
+
+
 Mais informações sobre o modelo: 
 
 <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.scielo.br%2Fscielo.php%3Fscript%3Dsci_arttext%26pid%3DS2318-03312016000300479%26lng%3Dpt%26tlng%3Dpt&sa=D&sntz=1&usg=AFQjCNFhRJR5D6ZhUmkEgetpkDUXsS7ZaQ" target="_blank">
