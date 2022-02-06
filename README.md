@@ -2,7 +2,7 @@
  
 #### Passos para executar o tutorial:
 
-1. criar uma pasta chamada 'SIHQUAL' (em letras maiúsculas) no disco  'C', de modo que o caminho de trabalho seja 'C:\SIHQUAL’
+1. criar uma pasta chamada 'SIHQUAL' (em letras maiúsculas) no disco 'C', de modo que o caminho de trabalho seja 'C:\SIHQUAL’
 2. fazer download da pasta "input" e salvar no diretório criado em 1.  ('C:\SIHQUAL\input’)
 3. fazer download da pasta "simulacao" e salvar no diretório criado em 1. ('C:\SIHQUAL\simulacao’).
 4. fazer download da pasta "output" e salvar no diretório criado em 1. ('C:\SIHQUAL\output’). 
