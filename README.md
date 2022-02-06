@@ -1,6 +1,6 @@
 ### SihQual-Tutorial
  
-#### Passos para executar o tutorial
+#### Passos para executar o tutorial:
 
 1. criar uma pasta chamada 'SIHQUAL' (em letras maiúsculas) no disco  'C', de modo que o caminho de trabalho seja 'C:\SIHQUAL’
 2. fazer download da pasta "input" e salvar no diretório criado em 1.  ('C:\SIHQUAL\input’)
@@ -11,4 +11,5 @@
 7. No programa Matlab (ou Octave), executar o script “pos_processamento.m”, que está na pasta 'C:\SIHQUAL\output. Nessa mesma pasta serão salvas as figuras com resultados na estação de referência (os resultados são gerados a cada passo temporal e espacial do modelo, porém impressos somente em estações definidas previamente, onde há dados de monitoramento para comparação: para o caso de interesse, são a estação fluviométrica de código 64278080 e a seção de qualidade de água 64326000/PARP 02500)
 
 Fontes dos dados:
+
 Mais informações sobre o modelo: 
