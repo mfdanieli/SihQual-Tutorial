@@ -33,6 +33,8 @@ Mais informações sobre o modelo:
 </a>
 
 
+<br />
+
 <a href="https://link.springer.com/article/10.1007%2Fs11269-021-02908-1" target="_blank">
   FERREIRA, D. M.; COELHO, M.; FERNANDES, C. V. S.; KAVISKI, E.; DETZEL, D. H. M. Deterministic and Stochastic Principles to Convert Discrete Water Quality Data into Continuous Time Series. Water Resources Management, v. 35, p. 3633-3647, 2021.
 </a>
