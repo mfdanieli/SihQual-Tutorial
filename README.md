@@ -10,13 +10,19 @@
 6. Executar o programa principal abrindo o arquivo “sihqual.exe”, que está na pasta 'C:\SIHQUAL\simulação’ (uma janela será aberta e fechará automaticamente, indicando o fim da simulação)  
 7. No programa Matlab (ou Octave), executar o script “pos_processamento.m”, que está na pasta 'C:\SIHQUAL\output. Nessa mesma pasta serão salvas as figuras com resultados na estação de referência (os resultados são gerados a cada passo temporal e espacial do modelo, porém impressos somente em estações definidas previamente, onde há dados de monitoramento para comparação: para o caso de interesse, são a estação fluviométrica de código 64278080 e a seção de qualidade de água 64326000/PARP 02500)
 
-Fontes dos dados:
+#### Fontes dos dados:
 
-https://www.snirh.gov.br/hidroweb/
-https://cetesb.sp.gov.br/ 
+<a href="https://www.snirh.gov.br/hidroweb/" target="_blank">
+  Agência Nacional de Águas e Saneamento Básico
+</a>
 
 
-Mais informações sobre o modelo: 
+<a href="https://sistemainfoaguas.cetesb.sp.gov.br/" target="_blank">
+  Companhia Ambiental do Estado de São Paulo
+</a>
+
+
+#### Mais informações sobre o modelo: 
 
 <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.scielo.br%2Fscielo.php%3Fscript%3Dsci_arttext%26pid%3DS2318-03312016000300479%26lng%3Dpt%26tlng%3Dpt&sa=D&sntz=1&usg=AFQjCNFhRJR5D6ZhUmkEgetpkDUXsS7ZaQ" target="_blank">
   FERREIRA, D. M.; FERNANDES, C. V.; KAVISKI, E. Curvas de permanência de qualidade da água como subsídio para o enquadramento de corpos d'água a partir de modelagem matemática em regime não permanente. RBRH, v. 21, p. 479-492, 2016.
